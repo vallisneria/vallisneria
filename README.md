@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+### 음표 모양 커밋 보고가세요
+![commit-graph](./commit-graph-note.png)
+
 <!--
 **vallisneria/vallisneria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

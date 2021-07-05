@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=d1e9d1&height=300&section=header&text=Lee%20Gyeong-Muk&fontSize=75&fontColor=000000)
+![header](https://capsule-render.vercel.app/api?type=waving&color=d1e9d1&height=200&section=header&text=Lee%20Gyeong-Muk&fontSize=75&fontColor=000000)
 
 🚧 아직 작성중입니다.
 

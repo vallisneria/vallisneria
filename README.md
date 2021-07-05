@@ -13,17 +13,21 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Lee Gyeong-Muk
-🚧 Work in progress
+![header](https://capsule-render.vercel.app/api?type=waving&color=d1e9d1&height=300&section=header&text=Lee%20Gyeong-Muk&fontSize=75&fontColor=000000)
 
-## 💻 적어도 한번은 사용해 본 것
+🚧 아직 작성중입니다.
+
+## 👨‍💻 하찮은 코딩실력
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=neria34)](https://github.com/mazassumnida/mazassumnida)
+
+## 💻 적어도 한번은 사용해 본 언어
 ![js](https://img.shields.io/static/v1?style=flat-square&label=&logo=javascript&message=JavaScript&logoColor=101820&color=F7DF1E)
 ![ts](https://img.shields.io/static/v1?style=flat-square&label=&logo=typescript&message=TypeScript&logoColor=FFFFFF&color=3178C6)
 ![python](https://img.shields.io/static/v1?style=flat-square&label=&logo=python&message=Python&logoColor=FFFFFF&color=3776AB)
-![psql](https://img.shields.io/static/v1?style=flat-square&label=&logo=postgresql&message=Postgresql&logoColor=FFFFFF&color=336791)
-![nginx](https://img.shields.io/static/v1?style=flat-square&label=&logo=nginx&message=Nginx&logoColor=FFFFFF&color=269539)
+
 
 ## 🌱 배우고 싶은 것
 ![rust](https://img.shields.io/static/v1?style=flat-square&label=&logo=rust&message=Rust&logoColor=FFFFFF&color=000000)
 
-## ✉️ Contact
+
+## ✉️ 연락처

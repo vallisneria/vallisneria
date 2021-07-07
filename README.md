@@ -17,8 +17,10 @@ Here are some ideas to get you started:
 
 🚧 아직 작성중입니다.
 
+<!--
 ## 👨‍💻 하찮은 코딩실력
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=neria34)](https://github.com/mazassumnida/mazassumnida)
+-->
 
 ## 💻 적어도 한번은 사용해 본 언어
 ![js](https://img.shields.io/static/v1?style=flat-square&label=&logo=javascript&message=JavaScript&logoColor=101820&color=F7DF1E)

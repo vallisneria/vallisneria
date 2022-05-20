@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 🚧 아직 작성중입니다.
 
 ## 사회복무요원
-![소집해제 남은 기간](https://dday-svg.vallisneria.workers.dev/2024/02/19/9)
+![소집해제 남은 기간](https://dday-svg.vallisneria.workers.dev/2024/02/19/8)
 
 <!--
 ## 👨‍💻 하찮은 코딩실력

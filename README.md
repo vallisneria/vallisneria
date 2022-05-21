@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 🚧 아직 작성중입니다.
 
 ## 사회복무요원
-![소집해제 남은 기간](https://github-stats-countdown.vallisneria.workers.dev/?y=2024&m=2&d=22&tz=9)
+![소집해제 남은 기간](https://github-stats-countdown.vallisneria.workers.dev/?y=2024&m=2&d=19&tz=9)

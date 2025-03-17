@@ -14,8 +14,3 @@ Here are some ideas to get you started:
 -->
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=d1e9d1&height=200&section=header&text=Lee%20Gyeong-Muk&fontSize=75&fontColor=000000)
-
-🚧 아직 작성중입니다.
-
-## 사회복무요원
-![소집해제 남은 기간](https://github-stats-countdown.vallisneria.workers.dev/?y=2024&m=2&d=19&tz=9)
